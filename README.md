@@ -5,3 +5,5 @@
 
 Cambio directo en main
 cambio para probar git pull
+
+Contenido agregado para practicar Pull Request.
